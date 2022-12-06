@@ -1,7 +1,7 @@
 ### Hi hi hi there 👋
 
 
-* 🌳 We are looking for [contributions](https://github.com/orgs/waterthetrees/projects/2/views/7) on [Water the Trees]([https://github.com/waterthetrees](https://github.com/orgs/waterthetrees/projects/2/views/7))
+* 🌳 We are looking for [contributions](https://github.com/orgs/waterthetrees/projects/2/views/7) on [Water the Trees](https://github.com/waterthetrees)
 * 🌱 I’m currently working on data wrangling
 * ♥️ Fun fact: I like miniature rock gardens and floating gardens
 
